@@ -4,4 +4,5 @@ easy , medium to hard.
 
 ### Reference:
     
-    https://github.com/charmingmichelle/leetcode_python
+    The solutions refer to  https://github.com/charmingmichelle/leetcode_python
+    The order is according to  https://cspiration.com/leetcodeClassification#10104
